@@ -4,22 +4,7 @@
 - 💞️ I’m looking to collaborate on Python, JavaScript, Flutter projects.
 - 📫 How to reach me Poya.kpu.2020@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hashem-Poya)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=Hashem-Poya)](https://github.com/ryo-ma/github-profile-trophy)
-
-https://github-profile-trophy.vercel.app/?username=Hashem-Poya=Followers
-
-https://github-profile-trophy.vercel.app/?username=Hashem-Poya&rank=S
-
-https://github-profile-trophy.vercel.app/?username=Hashem-Poya&theme=flat
-
-https://github-profile-trophy.vercel.app/?username=Hashem-Poya&theme=onedark
-
-https://github-profile-trophy.vercel.app/?username=Hashem-Poya&margin-w=15
-
-https://github-profile-trophy.vercel.app/?username=Hashem-Poya&no-bg=true
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hashem-Poya&row=2&column=3&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
