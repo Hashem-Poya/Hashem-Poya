@@ -15,9 +15,9 @@
 
 - 🤝 I’m available to contribute on Odoo ERP, MERN(Mongo, Express, React, Node) and Flutter proejcts.
 
-- 💬 Ask me about **JavaScript, MERN(Mongo, Express, React, Node), Python, Odoo ERP, Flutter**
+- 💬 Ask me about **JavaScript, MERN(Mongo, Express, React, Node), Python, Odoo ERP, Flutter**.
 
-- 📫 How to reach me **poya.kpu.2020@gmail.com**
+- 📫 How to reach me **poya.kpu.2020@gmail.com**.
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" alt="contact with me">Connect with me 🤝 </h3>
