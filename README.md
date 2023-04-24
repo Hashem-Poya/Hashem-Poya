@@ -32,8 +32,6 @@
 		<a style="margin-left: 5px;" target="_blank" href="https://stackoverflow.com/users/14268064/h-poya">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
         <a href="https://fb.com/POYA.DEV" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hashem Poya" height="40" width="40" /></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://twitter.com/h__poya">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" height="40" width="40" ></a>
 	 <a href="https://instagram.com/h__poya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hashem Poya" height="40" width="40" /></a>
 </p>
 <br>
